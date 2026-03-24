@@ -1,2 +1,7 @@
 # FinalProject_Laptop
-Interactive Laptop Repair Learning Game
+
+## Description
+*Interactive Laptop Repair Learning Game*
+
+## Project Structure
+

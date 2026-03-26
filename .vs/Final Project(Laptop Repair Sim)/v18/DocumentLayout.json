@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GaymsProjects\\School Projects\\Final Project\\Final Project(Laptop Repair Sim)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D68C40BB-6991-BD34-7952-9493BFB51330}|Assembly-CSharp.csproj|d:\\gaymsprojects\\school projects\\final project\\final project(laptop repair sim)\\assets\\scripts\\parttooltipmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68C40BB-6991-BD34-7952-9493BFB51330}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\parttooltipmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68C40BB-6991-BD34-7952-9493BFB51330}|Assembly-CSharp.csproj|d:\\gaymsprojects\\school projects\\final project\\final project(laptop repair sim)\\assets\\scripts\\partinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68C40BB-6991-BD34-7952-9493BFB51330}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\partinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68C40BB-6991-BD34-7952-9493BFB51330}|Assembly-CSharp.csproj|D:\\GaymsProjects\\School Projects\\Final Project\\Final Project(Laptop Repair Sim)\\assets\\scripts\\attachablepart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68C40BB-6991-BD34-7952-9493BFB51330}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attachablepart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68C40BB-6991-BD34-7952-9493BFB51330}|Assembly-CSharp.csproj|D:\\GaymsProjects\\School Projects\\Final Project\\Final Project(Laptop Repair Sim)\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68C40BB-6991-BD34-7952-9493BFB51330}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68C40BB-6991-BD34-7952-9493BFB51330}|Assembly-CSharp.csproj|D:\\GaymsProjects\\School Projects\\Final Project\\Final Project(Laptop Repair Sim)\\assets\\scripts\\objectdrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68C40BB-6991-BD34-7952-9493BFB51330}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectdrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68C40BB-6991-BD34-7952-9493BFB51330}|Assembly-CSharp.csproj|D:\\GaymsProjects\\School Projects\\Final Project\\Final Project(Laptop Repair Sim)\\assets\\scripts\\pausemenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68C40BB-6991-BD34-7952-9493BFB51330}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68C40BB-6991-BD34-7952-9493BFB51330}|Assembly-CSharp.csproj|D:\\GaymsProjects\\School Projects\\Final Project\\Final Project(Laptop Repair Sim)\\assets\\scripts\\mainmenubuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68C40BB-6991-BD34-7952-9493BFB51330}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenubuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PartTooltipManager.cs",
+              "DocumentMoniker": "D:\\GaymsProjects\\School Projects\\Final Project\\Final Project(Laptop Repair Sim)\\Assets\\Scripts\\PartTooltipManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PartTooltipManager.cs",
+              "ToolTip": "D:\\GaymsProjects\\School Projects\\Final Project\\Final Project(Laptop Repair Sim)\\Assets\\Scripts\\PartTooltipManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PartTooltipManager.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T03:19:51.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartInfo.cs",
+              "DocumentMoniker": "D:\\GaymsProjects\\School Projects\\Final Project\\Final Project(Laptop Repair Sim)\\Assets\\Scripts\\PartInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PartInfo.cs",
+              "ToolTip": "D:\\GaymsProjects\\School Projects\\Final Project\\Final Project(Laptop Repair Sim)\\Assets\\Scripts\\PartInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PartInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T03:19:43.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainMenuButtons.cs",
+              "DocumentMoniker": "D:\\GaymsProjects\\School Projects\\Final Project\\Final Project(Laptop Repair Sim)\\Assets\\Scripts\\MainMenuButtons.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuButtons.cs",
+              "ToolTip": "D:\\GaymsProjects\\School Projects\\Final Project\\Final Project(Laptop Repair Sim)\\Assets\\Scripts\\MainMenuButtons.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuButtons.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACySURBVDhPYxgFEHDjxY3/Xqvc/wtO5P1vvdji/40X1/9DpcBg3rm5cD4yGw6sF5v/bz7UAJZoAtIgw8ASUAAyGMpEYYMAI4gACb7P/wxmg4DuXM3/l5OvM4JsKz5cABVFBa6y7gyrgtZA9KCbig7wuYAJSpMNsBoA8gKIBnkBZiOIRmaHrQtBuMQTGGjNhxvBAk1AGhQTYAkoQHY2MhsOQNFotcgcbIPnSjfSo3FEAwYGAA95Yu3hOJS9AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-03-24T03:19:43.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttachablePart.cs",
+              "DocumentMoniker": "D:\\GaymsProjects\\School Projects\\Final Project\\Final Project(Laptop Repair Sim)\\Assets\\Scripts\\AttachablePart.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AttachablePart.cs",
+              "ToolTip": "D:\\GaymsProjects\\School Projects\\Final Project\\Final Project(Laptop Repair Sim)\\Assets\\Scripts\\AttachablePart.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AttachablePart.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwDkAAAABAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACySURBVDhPYxgFEHDjxY3/Xqvc/wtO5P1vvdji/40X1/9DpcBg3rm5cD4yGw6sF5v/bz7UAJZoAtIgw8ASUAAyGMpEYYMAI4gACb7P/wxmg4DuXM3/l5OvM4JsKz5cABVFBa6y7gyrgtZA9KCbig7wuYAJSpMNsBoA8gKIBnkBZiOIRmaHrQtBuMQTGGjNhxvBAk1AGhQTYAkoQHY2MhsOQNFotcgcbIPnSjfSo3FEAwYGAA95Yu3hOJS9AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-03-24T03:19:43.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PauseMenuController.cs",
+              "DocumentMoniker": "D:\\GaymsProjects\\School Projects\\Final Project\\Final Project(Laptop Repair Sim)\\Assets\\Scripts\\PauseMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenuController.cs",
+              "ToolTip": "D:\\GaymsProjects\\School Projects\\Final Project\\Final Project(Laptop Repair Sim)\\Assets\\Scripts\\PauseMenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseMenuController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAqwEIAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACySURBVDhPYxgFEHDjxY3/Xqvc/wtO5P1vvdji/40X1/9DpcBg3rm5cD4yGw6sF5v/bz7UAJZoAtIgw8ASUAAyGMpEYYMAI4gACb7P/wxmg4DuXM3/l5OvM4JsKz5cABVFBa6y7gyrgtZA9KCbig7wuYAJSpMNsBoA8gKIBnkBZiOIRmaHrQtBuMQTGGjNhxvBAk1AGhQTYAkoQHY2MhsOQNFotcgcbIPnSjfSo3FEAwYGAA95Yu3hOJS9AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-03-24T03:19:43.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "objectDrag.cs",
+              "DocumentMoniker": "D:\\GaymsProjects\\School Projects\\Final Project\\Final Project(Laptop Repair Sim)\\Assets\\Scripts\\objectDrag.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\objectDrag.cs",
+              "ToolTip": "D:\\GaymsProjects\\School Projects\\Final Project\\Final Project(Laptop Repair Sim)\\Assets\\Scripts\\objectDrag.cs",
+              "RelativeToolTip": "Assets\\Scripts\\objectDrag.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAQwO0AAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACySURBVDhPYxgFEHDjxY3/Xqvc/wtO5P1vvdji/40X1/9DpcBg3rm5cD4yGw6sF5v/bz7UAJZoAtIgw8ASUAAyGMpEYYMAI4gACb7P/wxmg4DuXM3/l5OvM4JsKz5cABVFBa6y7gyrgtZA9KCbig7wuYAJSpMNsBoA8gKIBnkBZiOIRmaHrQtBuMQTGGjNhxvBAk1AGhQTYAkoQHY2MhsOQNFotcgcbIPnSjfSo3FEAwYGAA95Yu3hOJS9AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-03-24T03:19:43.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\GaymsProjects\\School Projects\\Final Project\\Final Project(Laptop Repair Sim)\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\GaymsProjects\\School Projects\\Final Project\\Final Project(Laptop Repair Sim)\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwDQAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACySURBVDhPYxgFEHDjxY3/Xqvc/wtO5P1vvdji/40X1/9DpcBg3rm5cD4yGw6sF5v/bz7UAJZoAtIgw8ASUAAyGMpEYYMAI4gACb7P/wxmg4DuXM3/l5OvM4JsKz5cABVFBa6y7gyrgtZA9KCbig7wuYAJSpMNsBoA8gKIBnkBZiOIRmaHrQtBuMQTGGjNhxvBAk1AGhQTYAkoQHY2MhsOQNFotcgcbIPnSjfSo3FEAwYGAA95Yu3hOJS9AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-03-24T03:19:43.899Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

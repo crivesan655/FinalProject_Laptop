@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Draggable
   - Environment
+  - InteractablePart
+  - Floor
+  - Laptop
   layers:
   - Default
   - TransparentFX

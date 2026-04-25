@@ -61,13 +61,30 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\PartInfo.cs" />
+    <Compile Include="Assets\Scripts\ToolItem.cs" />
+    <Compile Include="Assets\Scripts\PartInteractionController.cs" />
     <Compile Include="Assets\Scripts\AttachablePart.cs" />
     <Compile Include="Assets\Outline.cs" />
     <Compile Include="Assets\Scripts\MainMenuButtons.cs" />
     <Compile Include="Assets\Scripts\PartTooltipManager.cs" />
+    <Compile Include="Assets\Scripts\RepairStation.cs" />
     <Compile Include="Assets\Scripts\PauseMenuController.cs" />
+    <Compile Include="Assets\Scripts\ControlsHUD.cs" />
+    <Compile Include="Assets\Scripts\TutorialManager.cs" />
+    <Compile Include="Assets\Scripts\PartType.cs" />
+    <Compile Include="Assets\Scripts\GameFlowManager.cs" />
     <Compile Include="Assets\Scripts\objectDrag.cs" />
+    <Compile Include="Assets\Scripts\PartSlot.cs" />
+    <Compile Include="Assets\Scripts\TutorialUI.cs" />
+    <Compile Include="Assets\Scripts\TutorialStep.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\RotationModeUI.cs" />
+    <Compile Include="Assets\Scripts\LaptopController.cs" />
+    <Compile Include="Assets\Scripts\InteractionRaycaster.cs" />
+    <Compile Include="Assets\Scripts\CleaningStation.cs" />
+    <Compile Include="Assets\Scripts\ToolManager.cs" />
+    <Compile Include="Assets\Scripts\InteractPromptUI.cs" />
+    <Compile Include="Assets\Scripts\LaptopTools.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
